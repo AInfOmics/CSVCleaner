@@ -1,12 +1,12 @@
-# File Uploader and Viewer
+# File Cleaner and Viewer
 
 This Streamlit application allows users to upload files of various types (CSV, Excel, text files, etc.) and displays their contents in a readable format.
 
 ## Features
 
-- Upload and display CSV files as dataframes.
-- Upload and display Excel files as dataframes.
-- Upload and display other file types as plain text.
+- Upload and display any text files as dataframes.
+- Upload and display csv or excel files as dataframes.
+- Upload and display custom file types as plain text.
 
 ## Installation
 
